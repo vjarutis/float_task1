@@ -1,0 +1,56 @@
+body {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    color: #0974b3;
+}
+
+div {
+    color: #666;
+    overflow: auto;
+}
+
+img {
+    height: 400px;
+    margin-right: 10px;
+    float: inline-start;
+}
+
+.half {
+    height: 300px;
+}
+
+.article {
+    padding: 20px;
+    height: 550px;
+    width: 70%;
+    border-top: solid #0974b3;
+    border-width: 5px;
+}
+
+.container {
+    margin: 0;
+    height: 500px;
+    width: 70%;
+}
+
+.article-1 {
+    height: 450px;
+    width: 50%;
+    border-top: solid #0974b3;
+    border-width: 5px;
+    float: left;
+}
+
+.albert {
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.nikola {
+    padding: 20px;
+}
